@@ -1,7 +1,8 @@
 header {
-  height: 100vh;
-  padding-top: 3rem;
-  
+  height: 120vh;
+  padding-top: 8rem;
+  overflow: hidden;
+ 
 }
 
 .header__container {
