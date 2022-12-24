@@ -29,7 +29,7 @@ const About = () => {
               <small>30+ Completed Project</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla aperiam animi voluptatibus iure alias. Praesentium dolore perspiciatis, accusamus eos, beatae, corporis maxime cumque repellendus quo magnam omnis deserunt aut architecto.</p>
+          <p>Hello I’m a software developer!<br/> I can help you build products, features or websites.<br/>Look through some of my work and experience!<br/>If you have a coding project, don’t hestiate to contact me.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

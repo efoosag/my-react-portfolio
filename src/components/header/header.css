@@ -1,6 +1,6 @@
 header {
-  height: 120vh;
-  padding-top: 8rem;
+  height: 100vh;
+  padding-top: 3rem;
   overflow: hidden;
  
 }
@@ -17,6 +17,7 @@ header {
   display: flex;
   gap: 1rem;
   justify-content: center;
+  bottom: 0;
 }
 
 /* -----------------HEADER SOCIALS---------*/
@@ -42,7 +43,7 @@ header {
 .img11 {
   background: linear-gradient(var(--color-white), transparent);
   width: 22rem;
-  height: 30rem;
+  height: 20rem;
   position: absolute;
   left: calc(50% - 11rem);
   margin-top: 4rem;
