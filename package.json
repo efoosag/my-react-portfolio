@@ -57,5 +57,5 @@
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
   },
-  "homepage": https://efoosag.github.io/my-react-portfolio
+  "homepage": "https://efoosag.github.io/my-react-portfolio"
 }
