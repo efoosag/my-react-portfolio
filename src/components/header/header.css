@@ -2,7 +2,6 @@ header {
   height: 100vh;
   padding-top: 3rem;
   overflow: hidden;
- 
 }
 
 .header__container {
@@ -11,7 +10,7 @@ header {
   position: relative;
 }
 
-/* ------ CTA ---------------*/
+/* ------ CTA --------------- */
 .cta {
   margin-top: 2.5rem;
   display: flex;
@@ -20,7 +19,7 @@ header {
   bottom: 0;
 }
 
-/* -----------------HEADER SOCIALS---------*/
+/* -----------------HEADER SOCIALS--------- */
 .header__socials {
   display: flex;
   flex-direction: column;
@@ -29,7 +28,6 @@ header {
   position: absolute;
   bottom: 3rem;
   left: 0;
-  
 }
 
 .header__socials::after {
@@ -39,7 +37,7 @@ header {
   background: var(--color-primary);
 }
 
-/* -----------------IMAGE---------*/
+/* -----------------IMAGE--------- */
 .img11 {
   background: linear-gradient(var(--color-white), transparent);
   width: 22rem;
@@ -51,7 +49,7 @@ header {
   padding: 1.5rem;
 }
 
-/* -----------------SCROLL DOWN---------*/
+/* -----------------SCROLL DOWN--------- */
 .scroll__down {
   position: absolute;
   right: -2.3rem;
@@ -74,7 +72,8 @@ header {
     height: 100vh;
   }
 
-  .header__socials, .scroll__down {
+  .header__socials,
+  .scroll__down {
     display: none;
   }
 }
