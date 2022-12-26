@@ -36,6 +36,10 @@ npm install
 npm start
 ```
 
+### Live Demo
+
+[Live Demo](https://efoosag.github.io/my-react-portfolio/)
+
 ## Author
 
 👤 **Victor**
