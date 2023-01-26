@@ -3,7 +3,7 @@ import './portfolio.css';
 import portf5 from '../../assets/portf5.png';
 import portf2 from '../../assets/portf2.png';
 import portf3 from '../../assets/portf3.png';
-import portf4 from '../../assets/portf4.png';
+import portf4 from '../../assets/portf4.jpeg';
 
 const portfolio = [{
   id: 2, title: 'Space Travel', address: 'https://github.com/efoosag/space-travel-hub.git', img: portf2,
@@ -31,7 +31,7 @@ const Portfolio = () => (
             <h3>{p.title}</h3>
             <div className="portfolio__item-cta">
               <a href={p.address} className="btn" target="_blank" rel="noreferrer">Github</a>
-              <a href={p.address} className="btn btn-primary">Live Demo</a>
+              {/* <a href={p.address} className="btn btn-primary">Live Demo</a> */}
             </div>
           </article>
         ))
