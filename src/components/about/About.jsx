@@ -3,7 +3,7 @@ import React from 'react';
 import './about.css';
 import { FiAward } from 'react-icons/fi';
 import { AiFillFolderOpen } from 'react-icons/ai';
-import aboutImg from '../../assets/aboutImg.png';
+import img111 from '../../assets/img111.jpg';
 
 const About = () => (
   <section id="about">
@@ -12,7 +12,7 @@ const About = () => (
     <div className="container about__container">
       <div className="about__me">
         <div className="about__me-image">
-          <img src={aboutImg} alt="About Me Image" />
+          <img src={img111} alt="About Me Image" />
         </div>
       </div>
       <div className="about__content">
@@ -36,7 +36,7 @@ const About = () => (
           <br />
           Look through some of my work and experience!
           <br />
-          If you have a coding project, don’t hestiate to contact me.
+          If you have a coding project, don’t hesitate to contact me.
         </p>
         <a href="#contact" className="btn btn-primary">Let's Talk</a>
       </div>

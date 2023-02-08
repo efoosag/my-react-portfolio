@@ -23,7 +23,12 @@
 }
 
 .portfolio__item h3 {
-  margin: 1.2rem 0 2rem;
+  margin: 1.2rem 0 1rem;
+}
+
+.portfolio__item p {
+  margin-bottom: 0.5rem;
+  font-size: 0.8rem;
 }
 
 .portfolio__item-cta {

@@ -38,10 +38,10 @@ header {
 }
 
 /* -----------------IMAGE--------- */
-.img11 {
+.img111 {
   background: linear-gradient(var(--color-white), transparent);
   width: 22rem;
-  height: 20rem;
+  height: 25rem;
   position: absolute;
   left: calc(50% - 11rem);
   margin-top: 4rem;
