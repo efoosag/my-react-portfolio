@@ -9,7 +9,7 @@ const portfolio = [{
   id: 2, title: 'Space Travel', desc: 'This website was developed to simplify reservation activities of a space travel hub. This project was carried out using CSS, React and Redux.', address: 'https://github.com/efoosag/space-travel-hub.git', live: 'https://efoosag.github.io/space-travel-hub/', img: portf2,
 },
 {
-  id: 3, title: 'Budget App', desc: 'An Application for providing budget details. This Application was carried out using Ruby on Rails, Postgresql and Bootstrap.', address: 'https://github.com/efoosag/Budget-App.git', live: 'https://www.loom.com/share/6f5a878ea4d64a178c62a7e1a36f06b7', img: portf3,
+  id: 3, title: 'Book Store', desc: "This website was developed for record favourite book's title and author . This project was carried out using CSS, HTML, and React.", address: 'https://github.com/efoosag/bookstore.git', live: 'https://efoosag.github.io/bookstore/', img: portf3,
 },
 {
   id: 4, title: 'Calculator App', desc: 'This Application was developed for executing simple mathematical calculations. This project was carried out using CSS, HTML, and JavaScript.', address: 'https://github.com/efoosag/maths-magician.git', live: 'https://62cff7c49951cf4d49283fbd--imaginative-cobbler-e1d3a8.netlify.app/', img: portf4,
